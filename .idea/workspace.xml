@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="18b52a25-a6bb-4003-ada0-e3bb2b2acecc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="JupyterTrust" id="bd32a95b-98ba-4679-a950-95698c110b6d" />
+  <component name="ProjectId" id="1UVv6V0aaoIt5U3QrGj8iMHDhdG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18b52a25-a6bb-4003-ada0-e3bb2b2acecc" name="Default Changelist" comment="" />
+      <created>1575454401909</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575454401909</updated>
+      <workItem from="1575454404254" duration="17419000" />
+      <workItem from="1575556820200" duration="10586000" />
+      <workItem from="1575635202031" duration="20230000" />
+      <workItem from="1575976250671" duration="435000" />
+      <workItem from="1575976698826" duration="5883000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1874" height="237" key="GridCell.Tab.0.bottom" timestamp="1575976824569">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1874" height="237" key="GridCell.Tab.0.bottom/0.0.1920.1044@0.0.1920.1044" timestamp="1575976824569" />
+    <state width="1874" height="237" key="GridCell.Tab.0.center" timestamp="1575976824568">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1874" height="237" key="GridCell.Tab.0.center/0.0.1920.1044@0.0.1920.1044" timestamp="1575976824568" />
+    <state width="1874" height="237" key="GridCell.Tab.0.left" timestamp="1575976824568">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1874" height="237" key="GridCell.Tab.0.left/0.0.1920.1044@0.0.1920.1044" timestamp="1575976824568" />
+    <state width="1874" height="237" key="GridCell.Tab.0.right" timestamp="1575976824569">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1874" height="237" key="GridCell.Tab.0.right/0.0.1920.1044@0.0.1920.1044" timestamp="1575976824569" />
+    <state x="639" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1575976699871">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="639" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1044@0.0.1920.1044" timestamp="1575976699871" />
+    <state x="623" y="230" key="search.everywhere.popup" timestamp="1575456821853">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="623" y="230" key="search.everywhere.popup/0.0.1920.1044@0.0.1920.1044" timestamp="1575456821853" />
+  </component>
+</project>
